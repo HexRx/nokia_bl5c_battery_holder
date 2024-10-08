@@ -4,6 +4,9 @@ The project is created in FreeCAD 0.21.1 and requires two pogo pins to connect t
 ![FreeCAD model preview](docs/freecad_model_preview.webp)
 ![Real model](docs/real_model.webp)
 
+## Download STL model
+You can download the full model in STL format on the [Releases](https://github.com/HexRx/nokia_bl5c_battery_holder/releases) page.
+
 ## Slicer settings
 The Bambu Studio slicer was used to print the battery holder model with the default settings for 0.4mm nozzle, the model prints in about 14 minutes and requires 4.36g of PLA plastic.
 ![Bambu Studio settings](docs/bambu_studio_print_settings.webp)
